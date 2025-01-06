@@ -7,7 +7,7 @@ function Footer() {
       style={{
         backgroundColor: "#532F82",
         color: "white",
-        {/* marginBottom: "500px" */}
+        
       }}
     >
       {/* upper */}
